@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ The percentage decrease calculator finds a percentage decrease from the starting
 == Description ==
 
 The percentage decrease calculator finds a percentage decrease from the starting value to the final value and identifies whether the change is an increase or a decrease.
+
+__Shortcode__
+
+Use the Percentage Decrease Calculator shortcode:
+
+`[ci_percentage_decrease_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_percentage_decrease_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Percentage Decrease Calculator](https://www.calculator.io/percentage-decrease-calculator/ "Percentage Decrease Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Percentage Decrease Calculator.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_percentage_decrease_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Percentage Decrease Calculator to the sidebar through the `Appearance -> Widgets -> Percentage Decrease Calculator` menu in WordPress.
+* Add the following code: `<?php display_ci_percentage_decrease_calculator(); ?>` to your template where you would like the Percentage Decrease Calculator to appear.
 
 == Screenshots ==
 1. The Percentage Decrease Calculator Input Form.
