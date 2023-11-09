@@ -13,6 +13,8 @@ The percentage decrease calculator finds a percentage decrease from the starting
 
 The percentage decrease calculator finds a percentage decrease from the starting value to the final value and identifies whether the change is an increase or a decrease.
 
+[Percentage Decrease Calculator Homepage](https://www.calculator.io/percentage-decrease-calculator/ "Percentage Decrease Calculator Homepage")
+
 __Shortcode__
 
 Use the Percentage Decrease Calculator shortcode:
