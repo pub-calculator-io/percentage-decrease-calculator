@@ -1,6 +1,6 @@
 === Percentage Decrease Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: percentage decrease, decrease percentage, percentage decrease formula, decrease percentage calculator, percentage decrease calculator online, calculate percentage decrease, percentage decrease between two numbers, decrease in percentage, percentage reduction calculator, decrease calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
