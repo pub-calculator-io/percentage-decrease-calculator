@@ -1,4 +1,4 @@
-# Percentage Decrease Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Percentage Decrease Calculator Widget for WordPress
 
 The percentage decrease calculator finds a percentage decrease from the starting value to the final value and identifies whether the change is an increase or a decrease.
 
