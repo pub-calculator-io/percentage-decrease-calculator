@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Percentage Decrease Calculator by www.calculator.io
+Plugin Name: CI Percentage decrease calculator
 Plugin URI: https://www.calculator.io/percentage-decrease-calculator/
 Description: The percentage decrease calculator finds a percentage decrease from the starting value to the final value and identifies whether the change is an increase or a decrease.
 Version: 1.0.0
