@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Percentage Decr
 == Screenshots ==
 
 1. The Percentage Decrease Calculator Input Form.
-2. The Percentage Decrease Calculator Calculation Results.
 
 == Installation ==
 

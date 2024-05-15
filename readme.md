@@ -3,7 +3,6 @@
 The percentage decrease calculator finds a percentage decrease from the starting value to the final value and identifies whether the change is an increase or a decrease.
 
 ![Percentage Decrease Calculator Input Form](/assets/images/screenshot-1.png "Percentage Decrease Calculator Input Form")
-![Percentage Decrease Calculator Calculation Results](/assets/images/screenshot-2.png "Percentage Decrease Calculator Calculation Results")
 
 ## Installation
 
